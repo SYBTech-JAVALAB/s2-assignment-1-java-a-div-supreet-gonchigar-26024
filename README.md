@@ -1,1 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AiqvZ3eo)
+===== Book Details =====
+Title : Harry Potter                
+Author : J.K. Rowling               
+ISBN : 1111                         
+Price : â??499.0                    
+Stock : 10
+Price after 10.0% discount: â??449.1
+Stock increased. New stock: 15
+Book is available for purchase.
+
+===== Book Details =====
+Title : Data Structures
+Author : Mark Allen Weiss
+ISBN : 2222
+Price : â??799.0
+Stock : 0
+Price after 15.0% discount: â??679.15
+Stock increased. New stock: 20
+Book is available for purchase.
