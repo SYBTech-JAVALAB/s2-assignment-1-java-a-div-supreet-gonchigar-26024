@@ -1,5 +1,3 @@
-package escorner;
-
 import java.util.Scanner;
 class Book {
     String title;
