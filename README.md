@@ -1,5 +1,5 @@
-<br>===== Book Details ===== <br>
-<br>Title : Harry Potter<br>                
+===== Book Details ===== <br>
+Title : Harry Potter<br>                
 Author : J.K. Rowling               
 ISBN : 1111                         
 Price : ₹499.0                    
